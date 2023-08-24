@@ -1,0 +1,10 @@
+Hello there. This is an example text.
+
+I am called by entering the command 'node step1.js example.txt'.
+
+node myScript.js arg1 arg2 arg3
+process.argv[0] would be "node"
+process.argv[1] would be "myScript.js"
+process.argv[2] would be "arg1"
+process.argv[3] would be "arg2"
+process.argv[4] would be "arg3"
